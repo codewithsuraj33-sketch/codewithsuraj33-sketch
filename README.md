@@ -28,29 +28,33 @@
 
 # 🤝 Connect With Me
 
-<pre>
+<p>
 
 <a href="https://youtube.com/@studytoolsofficial-r4s">
 <img src="https://skillicons.dev/icons?i=youtube"/>
 </a>
 
+
 <a href="https://www.instagram.com/suraaj_creation">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
+
 
 <a href="https://www.linkedin.com/in/suraj-adhikary-b09230396">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+
 <a href="https://t.me/+0uxF1LKGo3E5NDA9">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="48"/>
 </a>
+
 
 <a href="https://github.com/codewithsuraj33-sketch">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</pre>
+</p>
 
 ---
 
