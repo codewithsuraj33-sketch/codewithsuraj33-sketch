@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 B.Tech CSE Student  
+🎓 B.Tech CSE&DS Student  
 🐍 Python Developer  
 🌐 Web Developer  
 🤖 AI/ML Enthusiast  
