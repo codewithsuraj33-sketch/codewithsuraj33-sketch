@@ -1,136 +1,159 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Suraj%20Adhikary&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              SURAJ ADHIKARY — GITHUB PROFILE README        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi 👋, I'm Suraj Adhikary</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer;AI%2FML+Learner;Automation+Builder;Future+AI+Engineer"/>
-</p>
+```
+╔══════════════════════════════════════════════════════╗
+║   HEY, I'M SURAJ ADHIKARY  👋                       ║
+║   Data Analyst in Progress · Builder · Creator       ║
+╚══════════════════════════════════════════════════════╝
+```
 
----
+**B.Tech CSE & Data Science @ BEC, Odisha**
+Turning raw data into insights · Building in public · Documenting the journey
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![Instagram](https://img.shields.io/badge/Instagram-%40suraj.analytics-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suraj.analytics)
+[![YouTube](https://img.shields.io/badge/YouTube-%40suraj.analytics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@suraj.analytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Adhikary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-adhikary-b09230396)
 
-🎓 B.Tech CSE&DS Student  
-🐍 Python Developer  
-🌐 Web Developer  
-🤖 AI/ML Enthusiast  
-⚡ Automation Builder  
-🚀 Future Software Engineer  
-
----
-
-# 🌐 Portfolio
-
-🌍 **My Portfolio Website**  
-👉 https://codewithsuraj33-sketch.github.io/MY-PROFILE/
+</div>
 
 ---
 
-# 🤝 Connect With Me
+## ▌WHO AM I
 
-<p>
+```
+> Name    :  Suraj Adhikary
+> Role    :  Aspiring Data Analyst
+> College :  Bhubaneswar Engineering College (2025–2029)
+> Branch  :  CSE & Data Science
+> CGPA    :  8.14
+> Based   :  Odisha, India
+> Content :  @suraj.analytics — Data Analytics Education
+```
 
-<a href="https://youtube.com/@studytoolsofficial-r4s">
-<img src="https://skillicons.dev/icons?i=youtube"/>
-</a>
-
-
-<a href="https://www.instagram.com/suraaj_creation">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-
-<a href="https://www.linkedin.com/in/suraj-adhikary-b09230396">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-
-<a href="https://t.me/+0uxF1LKGo3E5NDA9">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="48"/>
-</a>
-
-
-<a href="https://github.com/codewithsuraj33-sketch">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+I'm a first-year CS student who documents his data analytics learning journey on Instagram & YouTube.  
+I believe in **learning in public** — every concept I learn, I turn into content.
 
 ---
 
-# 🚀 Tech Stack
+## ▌SKILLS
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode"/>
-</p>
+<div align="center">
 
-### 🎬 Creative Tools
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Learning-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627?style=flat-square&logo=tableau&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-CapCut • Alight Motion • Canva • Thumbnail Design
+</div>
 
----
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithsuraj33-sketch&theme=onedark"/>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithsuraj33-sketch&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsuraj33-sketch&theme=tokyonight"/>
-
-</p>
+**Excel (Advanced):** Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIF, COUNTIF, TEXTJOIN, Dashboard Design  
+**Python & NumPy:** Data manipulation, array operations  
+**SQL:** Queries, joins, aggregations  
+**Currently learning:** Pandas · Power BI · Tableau
 
 ---
 
-# 📈 Most Used Languages
+## ▌CURRENTLY LEARNING
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsuraj33-sketch&layout=compact&theme=tokyonight"/>
+```
+[ 2025 ROADMAP ]
 
----
-
-# 📊 Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithsuraj33-sketch&theme=tokyonight"/>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ ✅  Excel          ████████████████████  Done
+ ✅  Statistics     ████████████████░░░░  Done  
+ 🔄  SQL            ██████████████░░░░░░  In Progress
+ 🔄  Python/Pandas  ████████████░░░░░░░░  In Progress
+ ⏳  Power BI       ░░░░░░░░░░░░░░░░░░░░  Next
+ ⏳  Projects       ░░░░░░░░░░░░░░░░░░░░  Soon
+ ⏳  Job Prep       ░░░░░░░░░░░░░░░░░░░░  Later
+```
 
 ---
 
-# 🚀 Featured Projects
+## ▌EXCEL PROJECTS
 
-🌐 **Portfolio Website**  
-https://codewithsuraj33-sketch.github.io/MY-PROFILE/
+> 📁 All projects available on Google Drive
 
-🤖 **Telegram Automation Bot**  
-Python automation bot
-
-🌍 **Tourism Website**  
-Hackathon travel website project
-
----
-
-# 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=codewithsuraj33-sketch&color=blue)
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛒 **Vrinda Store Sales Dashboard** | Interactive sales dashboard with slicers, pivot charts & KPIs | [View →](https://drive.google.com/file/d/1-tIv6x1Kuv8tG5KOuC2dbmHqkGMWIR2f/view) |
+| 🍔 **Swiggy Orders Data Cleaning** | Raw order data cleaned & structured for analysis | [View →](https://drive.google.com/file/d/1L_lJeTexj_gFOZ61ClPJY2mncHAHh0r2/view) |
+| 📈 **Product Sales Revenue Analysis** | Revenue trends, product performance & insights | [View →](https://drive.google.com/file/d/1Z1q7QmPFdME5vQl-4TnoA1ByqI6AKDB2/view) |
 
 ---
 
-# 💡 Developer Quote
+## ▌GITHUB PROJECTS
 
-> "Code is like humor. When you have to explain it, it’s bad."
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🌾 **AgroVision-AI** | Python · AI | AI-powered agriculture assistant |
+| 🤖 **AutoShortBot** | Python | Automated YouTube Shorts generator |
+| ✈️ **BHARATYATRA.COM** | HTML · CSS | Travel website for India |
+| 🎬 **Netflix-Clone** | HTML · CSS | Netflix UI clone |
+| 🎓 **College-Attendance-System** | - | Attendance management system |
 
 ---
 
-⭐ From **Suraj Adhikary**
+## ▌GITHUB STATS
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<div align="center">
+
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithsuraj33-sketch&show_icons=true&theme=radical&border_color=000000&title_color=ffffff&text_color=ffffff&bg_color=0d0d0d&icon_color=FFD700)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsuraj33-sketch&layout=compact&theme=radical&border_color=000000&title_color=ffffff&text_color=ffffff&bg_color=0d0d0d)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codewithsuraj33-sketch&theme=dark&border=000000&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+
+</div>
+
+---
+
+## ▌CONTENT & COMMUNITY
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│  📱 Instagram : @suraj.analytics                    │
+│     Data analytics education · Reels · Tips         │
+│                                                     │
+│  🎥 YouTube   : @suraj.analytics                    │
+│     Same content, bigger canvas                     │
+└─────────────────────────────────────────────────────┘
+```
+
+*I document my data analytics journey so you don't have to figure it out alone.*  
+**Follow along → [@suraj.analytics](https://www.instagram.com/suraj.analytics)**
+
+</div>
+
+---
+
+## ▌CERTIFICATIONS & ACHIEVEMENTS
+
+- 🏆 Participated in **2 Hackathons** (College-level & Inter-college)
+- 📜 Basic Computer Certificate
+- 📜 HTML & CSS Certificate  
+- 📜 AI Tools Workshop — B10X
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║   "Data is the new oil. I'm learning to refine it." ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=codewithsuraj33-sketch&color=FFD700&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
